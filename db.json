@@ -2,7 +2,7 @@
   { 
      "access_token":"dashboard-f5352b2d-a9c6-4594-9b81-3aad697cc09c",
      "username":"wirewikiuser2",
-     "displayName":"wirewikiuser2                 ",
+     "displayName":"wirewikiuser2",
      "groups":[ 
         { 
            "externalId":"001",
@@ -25,27 +25,27 @@
         { 
            "menuId":"12345",
            "menuName":"wiredoc",
-           "menuDescription":"Menu that contain list of documents.              "
+           "menuDescription":"Menu that contain list of documents."
         },
         { 
            "menuId":"12346",
            "menuName":"wirefeed",
-           "menuDescription":"Menu that contain list of feeds.                  "
+           "menuDescription":"Menu that contain list of feeds."
         },
         { 
            "menuId":"12347",
            "menuName":"wireguide",
-           "menuDescription":"Menu that contain list of guideline.              "
+           "menuDescription":"Menu that contain list of guideline."
         }
      ],
      "validityInSeconds":600,
      "userEmails":null,
      "productCategory":[ 
         { 
-           "productCategoryId":"00002     ",
+           "productCategoryId":"00002",
            "productCategoryName":"Project",
            "group":{ 
-              "externalId":"001                           ",
+              "externalId":"001",
               "displayName":"WIREWIKI",
               "subGroupType":"PROJECT",
               "productCategories":[ 
